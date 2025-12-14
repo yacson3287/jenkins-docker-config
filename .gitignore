@@ -1,0 +1,3 @@
+# Jenkins Home Directory
+# Exclude all Jenkins runtime data, configurations, and build artifacts
+jenkins_home/
